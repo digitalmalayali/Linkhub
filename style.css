@@ -30,7 +30,7 @@ h3 {
 #theme-switch {
     width: 3em;
     position: fixed;
-    margin: 35rem 0 0 10rem;
+    margin: 35rem 0 0;
     z-index: 1;
 }
 
