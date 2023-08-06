@@ -6,7 +6,7 @@ A super-simple free web template to store and share your links like Linktree or 
 - ⚡ Uses light-weight CSS framework [chota](https://github.com/jenil/chota); entire size of site is around 150kb!
 - 🌙 Switch between dark and light modes; automatically chooses mode based on your system preference!
 - 😍 Icons powered by [iconify](https://github.com/iconify/iconify); find tons of free icons for almost any purpose!
-- 🔠 Categorize links; feel free to store your links under various categories!
+- 🔠 Categorize links; store your links under various categories!
 
 ## Screenshots
 <img src="https://github.com/digitalmalayali/Linkhub/assets/61133303/0fc6a36c-6189-45df-94ae-3af9413d0cc0" alt="Dark Mode" width=720/><figcaption>Dark Mode</figcaption>
