@@ -8,6 +8,11 @@ A super-simple free web template to store and share your links like Linktree or 
 - 😍 Icons powered by [iconify](https://github.com/iconify/iconify); find tons of free icons for almost any purpose!
 - 🔠 Categorize links; feel free to store your links under various categories!
 
+## Screenshots
+<img src="https://github.com/digitalmalayali/Linkhub/assets/61133303/0fc6a36c-6189-45df-94ae-3af9413d0cc0" alt="Dark Mode" width=720/><figcaption>Dark Mode</figcaption>
+
+<img src="https://github.com/digitalmalayali/Linkhub/assets/61133303/babe4279-a89b-444f-bf94-cc6f3a6e611c" alt="Dark Mode" width=720/><figcaption>Light Mode</figcaption>
+
 ## Usage
 The first step is to click the **Use this template** button above the file list to create a new repository.
 
