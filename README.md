@@ -54,7 +54,7 @@ Link buttons are in the `<main>` tag. You can replace the existing links and ico
 </a>
 ```
 
-### Add or remove Insta link-in-bio
+#### Add or remove Insta link-in-bio
 If you'd like to completely remove the Insta link-in-bio, remove the entire `<section>`.
 
 ```html 
@@ -92,7 +92,7 @@ Also, make sure to remove these CSS classes as well:
 }
 ```
 
-Adding a new link-in-bio is super easy.
+Adding a new link-in-bio is super easy. Make sure to add it at the start.
 
 ```html 
 <div class="insta-item">
