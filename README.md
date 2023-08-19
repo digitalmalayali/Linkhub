@@ -3,7 +3,7 @@ A super-simple free web template to store and share your links like Linktree or 
 
 ## Features
 - 😊 No installation or fancy setup; just replace links/icons!
-- ⚡ Uses lightweight CSS framework [chota](https://github.com/jenil/chota); the entire size of the site is around 150kb!
+- ⚡ Uses lightweight CSS framework [chota](https://github.com/jenil/chota); the entire size of the site is around 140kb!
 - 🌙 Switch between dark and light modes; automatically chooses the mode based on your system preference!
 - 😍 Icons powered by [iconify](https://github.com/iconify/iconify); find tons of free icons for almost any purpose!
 - 🔠 Categorize links; store your links under various categories!
