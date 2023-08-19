@@ -3,15 +3,18 @@ A super-simple free web template to store and share your links like Linktree or 
 
 ## Features
 - 😊 No installation or fancy setup; just replace links/icons!
+- 📸 Add links to Instagram posts similar to Later's link-in-bio! 
 - ⚡ Uses lightweight CSS framework [chota](https://github.com/jenil/chota); the entire size of the site is around 140kb!
 - 🌙 Switch between dark and light modes; automatically chooses the mode based on your system preference!
 - 😍 Icons powered by [iconify](https://github.com/iconify/iconify); find tons of free icons for almost any purpose!
 - 🔠 Categorize links; store your links under various categories!
 
 ## Screenshots
-<img src="https://github.com/digitalmalayali/Linkhub/assets/61133303/0fc6a36c-6189-45df-94ae-3af9413d0cc0" alt="Dark Mode" width=720/><figcaption>Dark Mode</figcaption>
+<img src="https://github.com/digitalmalayali/Linkhub/assets/61133303/e2283f77-e60d-4601-92df-7566a7307c2b" alt="Dark Mode" width=720/><figcaption>Dark Mode</figcaption>
 
-<img src="https://github.com/digitalmalayali/Linkhub/assets/61133303/babe4279-a89b-444f-bf94-cc6f3a6e611c" alt="Dark Mode" width=720/><figcaption>Light Mode</figcaption>
+<img src="https://github.com/digitalmalayali/Linkhub/assets/61133303/d7f2148c-b912-44dd-a168-378af1ee07bf" alt="Dark Mode" width=720/><figcaption>Insta link-in-bio expanded</figcaption>
+
+<img src="https://github.com/digitalmalayali/Linkhub/assets/61133303/9771278e-8018-4fb6-a1e8-807babdd1312" alt="Dark Mode" width=720/><figcaption>Light Mode</figcaption>
 
 ## Usage
 The first step is to click the **Use this template** button above the file list to create a new repository.
@@ -74,7 +77,12 @@ If you'd like to completely remove the Insta link-in-bio, remove the entire `<se
 
 Also, make sure to remove these CSS classes as well:
 
-```css 
+```css
+section,
+summary {
+    margin: .8em 0 .5em
+}
+ 
 .insta-gallery {
     display: grid;
     grid-template-columns: repeat(3, 1fr)
