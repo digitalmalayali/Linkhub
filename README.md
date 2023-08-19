@@ -47,17 +47,7 @@ Just add/remove that entire `<a>` tag!
   <span class="iconify-inline" data-icon="ri:instagram-fill" style="color: #0054ff"></span>
 </a>
 ```
-
-### Modifying link buttons
-Link buttons are in the `<main>` tag. You can replace the existing links and icons just like you did for social media links.
-
-```html 
-<a class="button outline secondary" href="https://www.example.com/" target="_blank">
-  <span class="iconify-inline" data-icon="ri:ball-pen-fill"></span>Example
-</a>
-```
-
-#### Add or remove Insta link-in-bio
+### Add/remove Insta link-in-bio
 If you'd like to completely remove the Insta link-in-bio, remove the entire `<section>`.
 
 ```html 
@@ -109,9 +99,17 @@ Adding a new link-in-bio is super easy. Make sure to add it at the start.
       height="100%" alt="Insta post"></a>
 </div>
 ```
+### Modifying link buttons
+Link buttons are in the `<main>` tag. You can replace the existing links and icons just like you did for social media links.
+
+```html 
+<a class="button outline secondary" href="https://www.example.com/" target="_blank">
+  <span class="iconify-inline" data-icon="ri:ball-pen-fill"></span>Example
+</a>
+```
 
 #### Add/remove a button
-Add/remove the entire class named `row'.
+Add/remove the entire class named `row`.
 
 ```html 
 <div class="row">
