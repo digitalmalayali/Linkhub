@@ -4,8 +4,8 @@ A super-simple free web template to store and share your links like Linktree or 
 ## Features
 - 😊 No installation or fancy setup; just replace links/icons!
 - 📸 Add links to Instagram posts similar to Later's link-in-bio! 
-- ⚡ Uses lightweight CSS framework [chota](https://github.com/jenil/chota); the entire size of the site is around 140kb!
-- 🌙 Switch between dark and light modes; automatically chooses the mode based on your system preference!
+- ⚡ Uses a modified version of the lightweight CSS framework [chota](https://github.com/jenil/chota); the entire size of the site is around 140kb!
+- 🌙 Switch between dark and light modes; automatically choose the mode based on your system preference!
 - 😍 Icons powered by [iconify](https://github.com/iconify/iconify); find tons of free icons for almost any purpose!
 - 🔠 Categorize links; store your links under various categories!
 
@@ -65,7 +65,7 @@ If you'd like to completely remove the Insta link-in-bio, remove the entire `<se
 </section>
 ```
 
-Also, make sure to remove these CSS classes as well:
+Also, make sure to remove these CSS classes from `style.css` as well:
 
 ```css
 section,
@@ -134,13 +134,10 @@ Add/remove the `<span class="tag">`. Also, make sure to use/remove `<div class="
 ```html
 <div class="row">
   <div class="col link is-center">
-    <a class="button outline secondary" href="https://example.com/" target="_blank">
-      <span class="iconify-inline" data-icon="ri:radio-fill"></span>Example
-    </a>
-        <span class="tag is-small bd-success text-success">New</span>
+      <a class="button outline secondary" href="https://radio.digitalmalayali.in/" target="_blank"><span
+        class="iconify-inline" data-icon="ri:radio-fill"></span>24/7
+        Radio <span class="tag is-small bd-success text-success">New</span>
+      </a>
   </div>
 </div>
 ```
-
-#### Changing text and link button colours
-Refer [chota documentation](https://jenil.github.io/chota/#docs).
