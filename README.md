@@ -1,8 +1,8 @@
 # Linkhub
 A super-simple free web template to store and share your links like Linktree or Link-in-bio.
 
-[![Static Badge](https://img.shields.io/badge/jekyll-theme?logo=jekyll&color=%23CC0000)](https://rubygems.org/gems/linkhub-jekyll-theme)
-[![Gem (including prereleases)](https://img.shields.io/gem/v/linkhub-jekyll-theme?logo=ruby&logoColor=%23E9573F)](https://github.com/digitalmalayali/linkhub-jekyll-theme)
+[![Static Badge](https://img.shields.io/badge/jekyll-theme?logo=jekyll&color=%23CC0000)](https://github.com/digitalmalayali/linkhub-jekyll-theme)
+[![Gem (including prereleases)](https://img.shields.io/gem/v/linkhub-jekyll-theme?logo=ruby&logoColor=%23E9573F)](https://rubygems.org/gems/linkhub-jekyll-theme)
 [![Gem](https://img.shields.io/gem/dt/linkhub-jekyll-theme?logo=ruby&logoColor=%23E9573F)](https://rubygems.org/gems/linkhub-jekyll-theme)
 
 ## Features
