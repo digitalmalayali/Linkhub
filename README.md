@@ -1,6 +1,10 @@
 # Linkhub
 A super-simple free web template to store and share your links like Linktree or Link-in-bio.
 
+[![Static Badge](https://img.shields.io/badge/jekyll-theme-CC0000?logo=jekyll&logoColor=%23CC0000)](https://github.com/digitalmalayali/linkhub-jekyll-theme/)
+[![Gem (including prereleases)](https://img.shields.io/gem/v/linkhub-jekyll-theme?logo=ruby&logoColor=%23E9573F)](https://rubygems.org/gems/linkhub-jekyll-theme)
+[![Gem](https://img.shields.io/gem/dt/linkhub-jekyll-theme?logo=ruby&logoColor=%23E9573F)](https://rubygems.org/gems/linkhub-jekyll-theme)
+
 ## Features
 - 😊 No installation or fancy setup; just replace links/icons!
 - 📸 Add links to Instagram posts similar to Later's link-in-bio! 
@@ -15,6 +19,10 @@ A super-simple free web template to store and share your links like Linktree or 
 <img src="https://github.com/digitalmalayali/Linkhub/assets/61133303/d7f2148c-b912-44dd-a168-378af1ee07bf" alt="Dark Mode" width=720/><figcaption>Insta link-in-bio expanded</figcaption>
 
 <img src="https://github.com/digitalmalayali/Linkhub/assets/61133303/9771278e-8018-4fb6-a1e8-807babdd1312" alt="Dark Mode" width=720/><figcaption>Light Mode</figcaption>
+
+## Also available as
+- [Jekyll Theme](https://github.com/digitalmalayali/linkhub-jekyll-theme)
+- [Ruby Gem](https://rubygems.org/gems/linkhub-jekyll-theme)
 
 ## Usage
 The first step is to click the **Use this template** button above the file list to create a new repository.
