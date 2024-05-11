@@ -5,6 +5,8 @@ A super-simple free web template to store and share your links like Linktree or 
 [![Gem (including prereleases)](https://img.shields.io/gem/v/linkhub-jekyll-theme?logo=ruby&logoColor=%23E9573F)](https://rubygems.org/gems/linkhub-jekyll-theme)
 [![Gem](https://img.shields.io/gem/dt/linkhub-jekyll-theme?logo=ruby&logoColor=%23E9573F)](https://rubygems.org/gems/linkhub-jekyll-theme)
 
+[![Static Badge](https://img.shields.io/badge/wordpress-theme-red?logo=wordpress&labelColor=21759B)](https://github.com/digitalmalayali/linkhub-wordpress-theme)
+
 ## Features
 - 😊 No installation or fancy setup; just replace links/icons!
 - 📸 Add links to Instagram posts similar to Later's link-in-bio! 
