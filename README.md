@@ -42,12 +42,23 @@ Just replace the existing links with yours and you're done!
 <a class="brand" href="https://www.instagram.com/example/" target="_blank" aria-label="Instagram">
 ```
 
-#### Change social media icons and icon colour
+#### Change icons and icon colour
 Go to [iconify icon sets](https://icon-sets.iconify.design/) and search for the icon you want. E.g., if you want to replace the existing Instagram icon with another from a different set, copy the unique icon name and paste it into the `data-icon` attribute. You can also change the icon colour right there to match your branding or specific needs.
 
 ```html 
 <span class="iconify-inline" data-icon="iconoir:instagram" style="color: #0054ff"></span>
 ```
+#### Use custom icons in buttons
+Add your custom `svg` icon inside `<span class="custom-icon">`. You can use [SVGOMG](https://jakearchibald.github.io/svgomg/) to optimize SVG.
+
+```html
+<a class="button outline secondary" href="https://productraid.com/" target="_blank">
+  <span class="custom-icon">
+    <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 3 3"><path d="M.652.2h1.446l-.238.886h.975l-.352 1.313H1.292l.114-.428h.749l.122-.457h-.374c-.684 0-1.283.46-1.46 1.12H0L.652.201ZM.98.63l-.122.457h.56L1.54.629H.98Z"/></svg>
+  </span>Product Raid
+</a>
+```
+
 
 #### Add/remove a social media icon along with the link
 Just add/remove that entire `<a>` tag!
