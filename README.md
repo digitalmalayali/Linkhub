@@ -10,7 +10,7 @@ A super-simple free web template to store and share your links like Linktree or 
 ## Features
 - 😊 No installation or fancy setup; just replace links/icons!
 - 📸 Add links to Instagram posts similar to Later's link-in-bio! 
-- ⚡ Uses a modified version of the lightweight CSS framework [chota](https://github.com/jenil/chota); the entire size of the site is around 140kb!
+- ⚡ Uses a modified version of the lightweight CSS framework [chota](https://github.com/jenil/chota); the entire size of the site is around 250kb with minimum assets!
 - 🌙 Switch between dark and light modes; automatically choose the mode based on your system preference!
 - 😍 Icons powered by [iconify](https://github.com/iconify/iconify); find tons of free icons for almost any purpose!
 - 🔠 Categorize links; store your links under various categories!
