@@ -6,6 +6,8 @@ A super-simple free web template to store and share your links like Linktree or 
 [![Gem](https://img.shields.io/gem/dt/linkhub-jekyll-theme?logo=ruby&logoColor=%23E9573F)](https://rubygems.org/gems/linkhub-jekyll-theme)
 
 [![Static Badge](https://img.shields.io/badge/wordpress-theme-red?logo=wordpress&labelColor=21759B)](https://github.com/digitalmalayali/linkhub-wordpress-theme)
+[![WordPress Theme Version](https://img.shields.io/wordpress/theme/v/linkhub?logo=wordpress&labelColor=%2321759B)](https://wordpress.org/themes/linkhub/)
+[![WordPress Theme Downloads](https://img.shields.io/wordpress/theme/dt/linkhub?logo=wordpress&labelColor=%2321759B&color=green)](https://wordpress.org/themes/linkhub/)
 
 ## Features
 - 😊 No installation or fancy setup; just replace links/icons!
