@@ -27,6 +27,7 @@ A super-simple free web template to store and share your links like Linktree or 
 ## Also available as
 - [Jekyll Theme](https://github.com/digitalmalayali/linkhub-jekyll-theme)
 - [Ruby Gem](https://rubygems.org/gems/linkhub-jekyll-theme)
+- [WordPress Theme](https://github.com/digitalmalayali/linkhub-wordpress-theme)
 
 ## Usage
 The first step is to click the **Use this template** button above the file list to create a new repository.
